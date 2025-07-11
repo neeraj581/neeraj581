@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Neeraj Kumar (@neeraj581)
+# 👋 Hi there! I'm Neeraj Kumar 
 
 ## 👨‍💻 About Me
 - 🎯 Passionate about **C++**, **Python**, **Data Science**, **Web developement** and **AI/ML**
