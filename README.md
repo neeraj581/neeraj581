@@ -2,7 +2,6 @@
 
 ## 👨‍💻 About Me
 - 🎯 Passionate about **C++**, **Python**, **Data Science**, **Web developement** and **AI/ML**
-- 🌱 Currently learning **Python** to strengthen my backend and data skills
 - 🔧 Looking to **collaborate on real-world projects**, especially those involving **web applications using Python**
 - 😄 Pronouns: **He/Him**
 
