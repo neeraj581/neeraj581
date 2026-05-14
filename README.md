@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 🎯 Passionate about **C++**, **Python**, **Data Science**, **Web developement** and **AI/ML**
-- 🔧 Looking to **collaborate on real-world projects**, especially those involving **web applications using Python**
+- 🔧 Looking to **collaborate on real-world projects**
 - 😄 Pronouns: **He/Him**
 
 ## 📫 How to Reach Me
